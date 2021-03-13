@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NY Times</string>
+    <string name="app_title">Live News by NewYork Times</string>
+    <string name="logo_placement">Logo Placement</string>
+    <string name="back_button">Back Button</string>
+    <string name="something_went_wrong">Something went wrong, please try again!</string>
+    <string name="na">N/A</string>
+    <string name="empty_screen">Empty Screen</string>
+    <string name="icon">Icon</string>
+    <string name="news_main_image">News Main Image</string>
+    <string name="news_details">News Details</string>
+    <string name="display_news_for_last">Display news from the last</string>
+    <string name="choose_section_to_view">Display news from section</string>
+    <string name="source">Source</string>
+    <string name="section">Section</string>
+    <string name="sub_section">Sub Section</string>
+</resources>
